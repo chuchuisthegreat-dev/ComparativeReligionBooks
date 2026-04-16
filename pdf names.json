@@ -103,6 +103,15 @@
     ]
   },
   {
+    "library/islamic books": [
+      "Bulugh-al-Maram.pdf",
+      "ihya-v1.pdf",
+      "Kitab-At-Tauhid-The-Book-of-Monotheism-Sh.-Muhammad-bin-Abdul-Wahhab.pdf",
+      "SahihMuslim-IslamicEnglishBook.pdf",
+      "Tafsir-Ibn-Kathir-all-10-volumes.pdf"
+    ]
+  },
+  {
     "library/islamic-books": [
       "33 lessons for every muslim.pdf",
       "A Message To Every Youth.pdf",
@@ -111,13 +120,19 @@
       "Beautiful patience (Tafsir of Surah yusuf) Part 1.pdf",
       "Beautiful patience (Tafsir of Surah yusuf) Part 2.pdf",
       "Izhar_ul_Haq_[eng].pdf",
-      "Kitab-At-Tauhid-The-Book-of-Monotheism-Sh.-Muhammad-bin-Abdul-Wahhab.pdf",
       "sahih-al-bukhari-volume-3-ahadith-1773-2737.pdf",
-      "SahihMuslim-IslamicEnglishBook.pdf",
       "surah_19_maryam_urdu_tarjuma.pdf",
-      "Tafsir-Ibn-Kathir-all-10-volumes.pdf",
       "Ten-Proofs-for-The-Existence-of-God.pdf",
       "The-Divine-Reality-Sapience-Institute-Online-Edition-October-2020-v1.1.pdf"
+    ]
+  },
+  {
+    "library/Islamic_books": [
+      "18-Sahaba_The_Blessed_07_02_2022 (1) 2.pdf",
+      "At Tahawi Creed (Hamzah Yusuf translation)_text.pdf",
+      "SahihAl-bukhariVol.1-Ahadith1-875.pdf",
+      "SahihAl-bukhariVol.2-Ahadith876-1772.pdf",
+      "surah_19_maryam_urdu_tarjuma.pdf"
     ]
   },
   {
