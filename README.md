@@ -1,86 +1,260 @@
-# Book Library Structure
+<div align="center">
 
-This repository is organized under `library/` by topic.
+<br/>
 
-## atheism
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        📚  C O M P A R A T I V E  R E L I G I O N          ║
+║                    B O O K S                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- AtheismIslam_ShoaibMalik.pdf
-- Ten-Proofs-for-The-Existence-of-God.pdf
-- The Divine Reality PDF.pdf
-- The-Divine-Reality-Sapience-Institute-Online-Edition-October-2020-v1.1.pdf
-- en-islam-vs-atheism.pdf
+*A curated open library exploring religion through an Islamic lens*
 
-## christianity
+[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-4CAF50?style=for-the-badge&logo=github)](https://github.com/SENODROOM/ComparativeReligionBooks/pulls)
+[![Library](https://img.shields.io/badge/Format-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./library)
+[![PRs](https://img.shields.io/badge/PRs-Open-blue?style=for-the-badge)](https://github.com/SENODROOM/ComparativeReligionBooks/pulls)
+[![License](https://img.shields.io/badge/License-Open%20Knowledge-orange?style=for-the-badge)](./LICENSE)
 
-- 101 Contradictions In The Bible.pdf
-- Answers to Born Again Preachers.pdf
-- Is The Trinity Doctrine Divinely Inspired.pdf
-- en-the-true-message-of-jesus-christ.pdf
+</div>
 
-## comparative-religion
+---
 
-- Kellogg,+Samuel+Henry,+A+Handbook+of+Comparative+Religion.pdf
-- Noor-Book.com الإسلام والأديان دراسة مقارنة 3 .pdf
-- Noor-Book.com علم مقارنة الأديان عند مفكري الإسلام 2 .pdf
-- the-choice-islam-and-christianity-volume-one.pdf
-- the-choice-islam-and-christianity-volume-two.pdf
+<br/>
 
-## hadith/sahih-bukhari/english
+## ✦ About
 
-- SahihAl-bukhariVol.1-Ahadith1-875.pdf
-- SahihAl-bukhariVol.2-Ahadith876-1772.pdf
-- SahihAl-bukhariVol.3-Ahadith1773-2737.pdf
-- SahihAl-bukhariVol.4-Ahadith2738-3648.pdf
-- SahihAl-bukhariVol.5-Ahadith3649-4473.pdf
-- SahihAl-bukhariVol.6-Ahadith4474-5062.pdf
-- SahihAl-bukhariVol.7-Ahadith5063-5969.pdf
-- SahihAl-bukhariVol.8-Ahadith5970-6860.pdf
-- SahihAl-bukhariVol.9-Ahadith6861-7563.pdf
+> *"Read. In the name of your Lord who created."* — Quran 96:1
 
-## hadith/sahih-bukhari/urdu
+**ComparativeReligionBooks** is a community-driven digital library housing scholarly works on comparative religion, with a focus on books that illuminate, defend, and elevate the Islamic perspective. Whether you're a student, researcher, or curious mind — this collection is built for you.
 
-- Sahi-Bukhari-Jilad-1.pdf
-- Sahi-Bukhari-Jilad-2.pdf
-- Sahi-Bukhari-Jilad-3.pdf
-- Sahi-Bukhari-Jilad-4.pdf
-- Sahi-Bukhari-Jilad-5.pdf
-- Sahi-Bukhari-Jilad-6.pdf
+All books live in the `/library` folder. Anyone can contribute.
 
-## islam
+<br/>
 
-- 10-Answer_to_an_enemy_of_islam_07_02_2022 2.pdf
-- 16-Why_Did_They_Become_Muslims_07_02_2022 2.pdf
-- 18-Sahaba_The_Blessed_07_02_2022 (1) 2.pdf
-- 8-Belief_and_Islam_25_02_2025 2.pdf
-- IIA-2-Contents.pdf
-- Izhar*ul_Haq*[eng].pdf
-- Just One Message.pdf
-- Noor-Book.com الإسلام ومصير الإنسان.pdf
-- Noor-Book.com المسيح في الإسلام 2 .pdf
+---
 
-## islam/seerah
+<br/>
 
-- English_ArRaheeq_AlMakhtum_THE_SEALED_NECTAR 2.pdf
+## 📂 Repository Structure
 
-## islamic-books
+```
+ComparativeReligionBooks/
+│
+├── 📁 library/          ← All PDF books live here
+│   ├── book-title.pdf
+│   ├── book-title.pdf
+│   └── ...
+│
+└── 📄 README.md
+```
 
-- 33 lessons for every muslim.pdf
-- A Message To Every Youth.pdf
-- Appeal to Sense of Shame.pdf
-- Beautiful patience (Tafsir of Surah yusuf) Part 1.pdf
-- Beautiful patience (Tafsir of Surah yusuf) Part 2.pdf
-- Izhar*ul_Haq*[eng].pdf
-- sahih-al-bukhari-volume-3-ahadith-1773-2737.pdf
-- surah_19_maryam_urdu_tarjuma.pdf
-- Ten-Proofs-for-The-Existence-of-God.pdf
-- The-Divine-Reality-Sapience-Institute-October-2020-v1.1.pdf
+<br/>
 
-## philosophy
+---
 
-- Al Ghazali Incoherence of the Philosophers.pdf
-- Kalam.pdf
-- Marcus_Aurelius_Antoninus_to_Himself.pdf
+<br/>
 
-## social-questions
+## 📜 The Collection
 
-- FINAL*-Why-Do-People-Suffer*-Gods-Existence-the-Problem-of-Evil-2.pdf
+The `/library` folder contains peer-reviewed and community-contributed PDFs covering:
+
+- ☪️ Islamic theology & philosophy
+- 🔍 Comparative religion & interfaith analysis
+- 🌍 Historical perspectives on world religions
+- 📖 Scholarly defenses and apologetics of Islam
+- 🕊️ Ethics, spirituality, and metaphysics
+
+<br/>
+
+---
+
+<br/>
+
+## 🤝 How to Contribute — Pull Request Guide
+
+We warmly welcome contributions from the community! Follow the steps below to submit books via a Pull Request (PR).
+
+<br/>
+
+### ⚡ Step-by-Step: Creating a Pull Request
+
+<br/>
+
+**① Fork the Repository**
+
+Click the **Fork** button at the top-right of this page to create your own copy of the repository.
+
+```
+https://github.com/SENODROOM/ComparativeReligionBooks
+                                              ↑ Click Fork
+```
+
+<br/>
+
+**② Clone Your Fork**
+
+```bash
+git clone https://github.com/YOUR-USERNAME/ComparativeReligionBooks.git
+cd ComparativeReligionBooks
+```
+
+<br/>
+
+**③ Create a New Branch**
+
+Name your branch something descriptive:
+
+```bash
+git checkout -b add/5-books-on-islamic-theology
+```
+
+<br/>
+
+**④ Add Your PDFs to the `/library` Folder**
+
+Place exactly **5 PDF files** inside the `library/` directory.
+
+```bash
+cp /path/to/your/books/*.pdf library/
+```
+
+Use clean, descriptive filenames:
+
+```
+✅  Good:   the-concept-of-god-in-islam-ahmed-deedat.pdf
+❌  Avoid:  book1.pdf / FINAL_v3_copy.pdf
+```
+
+<br/>
+
+**⑤ Stage and Commit Your Changes**
+
+```bash
+git add library/
+git commit -m "feat: add 5 books on comparative religion defending Islam"
+```
+
+<br/>
+
+**⑥ Push to Your Fork**
+
+```bash
+git push origin add/5-books-on-islamic-theology
+```
+
+<br/>
+
+**⑦ Open the Pull Request**
+
+1. Go to the original repository on GitHub
+2. Click **"Compare & pull request"**
+3. Fill in the PR template (see below)
+4. Submit!
+
+<br/>
+
+---
+
+<br/>
+
+## 📋 PR Template
+
+When opening your PR, please include the following in your description:
+
+```markdown
+## 📚 Book Submission
+
+### Books Added (5 required)
+| # | Title | Author | Topic |
+|---|-------|--------|-------|
+| 1 | ...   | ...    | ...   |
+| 2 | ...   | ...    | ...   |
+| 3 | ...   | ...    | ...   |
+| 4 | ...   | ...    | ...   |
+| 5 | ...   | ...    | ...   |
+
+### Why these books?
+<!-- Briefly explain how each book defends or supports Islam -->
+
+### Checklist
+- [ ] All 5 PDFs are placed in the `/library` folder
+- [ ] All books are relevant to comparative religion
+- [ ] All books defend or support the Islamic perspective
+- [ ] File names are clean and descriptive
+- [ ] No duplicate titles already in the library
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 📏 PR Rules & Guidelines
+
+> Please read carefully before submitting. PRs that don't meet these requirements will be closed.
+
+<br/>
+
+| Rule | Requirement |
+|------|-------------|
+| 📖 **Book Count** | Each PR must contain **exactly 5 PDF books** |
+| ☪️ **Content** | All books must **defend or support Islam** — through theology, comparative analysis, apologetics, or history |
+| 📁 **Location** | All PDFs must be placed inside the `library/` folder |
+| 🏷️ **Naming** | Use descriptive filenames: `title-author.pdf` (lowercase, hyphens, no spaces) |
+| 🚫 **No Duplicates** | Check existing files before submitting to avoid duplicates |
+| 📄 **Format** | PDF format only — no `.epub`, `.docx`, or other formats |
+| ✍️ **PR Description** | Must include book titles, authors, and a brief justification |
+
+<br/>
+
+> **Note:** Books promoting anti-Islamic content, hate speech, or misinformation will be rejected without review.
+
+<br/>
+
+---
+
+<br/>
+
+## 🔍 Review Process
+
+```
+You submit PR
+      ↓
+Maintainer reviews book relevance & PR rules
+      ↓
+Feedback given (if needed) → You update PR
+      ↓
+PR approved & merged ✅
+```
+
+Reviews typically happen within **3–7 days**. Be patient and respectful in discussions.
+
+<br/>
+
+---
+
+<br/>
+
+## 🌟 Contributors
+
+A heartfelt **جزاكم الله خيرًا** *(Jazakumullahu Khayran)* — may Allah reward all those who have contributed to spreading knowledge.
+
+<br/>
+
+<div align="center">
+
+---
+
+*"Seeking knowledge is an obligation upon every Muslim."*
+— Prophet Muhammad ﷺ *(Ibn Majah)*
+
+---
+
+**⭐ Star this repo if you find it valuable**
+**🔁 Share it to spread beneficial knowledge**
+
+</div>
