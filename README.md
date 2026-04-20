@@ -5,13 +5,13 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        📚  C O M P A R A T I V E  R E L I G I O N          ║
+║         📚  C O M P A R A T I V E  R E L I G I O N           ║
 ║                    B O O K S                                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-*A curated open library exploring religion through an Islamic lens*
+_A curated open library exploring religion through an Islamic lens_
 
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-4CAF50?style=for-the-badge&logo=github)](https://github.com/SENODROOM/ComparativeReligionBooks/pulls)
 [![Library](https://img.shields.io/badge/Format-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./library)
@@ -26,7 +26,7 @@
 
 ## ✦ About
 
-> *"Read. In the name of your Lord who created."* — Quran 96:1
+> _"Read. In the name of your Lord who created."_ — Quran 96:1
 
 **ComparativeReligionBooks** is a community-driven digital library housing scholarly works on comparative religion, with a focus on books that illuminate, defend, and elevate the Islamic perspective. Whether you're a student, researcher, or curious mind — this collection is built for you.
 
@@ -168,18 +168,21 @@ When opening your PR, please include the following in your description:
 ## 📚 Book Submission
 
 ### Books Added (5 required)
-| # | Title | Author | Topic |
-|---|-------|--------|-------|
-| 1 | ...   | ...    | ...   |
-| 2 | ...   | ...    | ...   |
-| 3 | ...   | ...    | ...   |
-| 4 | ...   | ...    | ...   |
-| 5 | ...   | ...    | ...   |
+
+| #   | Title | Author | Topic |
+| --- | ----- | ------ | ----- |
+| 1   | ...   | ...    | ...   |
+| 2   | ...   | ...    | ...   |
+| 3   | ...   | ...    | ...   |
+| 4   | ...   | ...    | ...   |
+| 5   | ...   | ...    | ...   |
 
 ### Why these books?
+
 <!-- Briefly explain how each book defends or supports Islam -->
 
 ### Checklist
+
 - [ ] All 5 PDFs are placed in the `/library` folder
 - [ ] All books are relevant to comparative religion
 - [ ] All books defend or support the Islamic perspective
@@ -199,15 +202,15 @@ When opening your PR, please include the following in your description:
 
 <br/>
 
-| Rule | Requirement |
-|------|-------------|
-| 📖 **Book Count** | Each PR must contain **exactly 5 PDF books** |
-| ☪️ **Content** | All books must **defend or support Islam** — through theology, comparative analysis, apologetics, or history |
-| 📁 **Location** | All PDFs must be placed inside the `library/` folder |
-| 🏷️ **Naming** | Use descriptive filenames: `title-author.pdf` (lowercase, hyphens, no spaces) |
-| 🚫 **No Duplicates** | Check existing files before submitting to avoid duplicates |
-| 📄 **Format** | PDF format only — no `.epub`, `.docx`, or other formats |
-| ✍️ **PR Description** | Must include book titles, authors, and a brief justification |
+| Rule                  | Requirement                                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 📖 **Book Count**     | Each PR must contain **exactly 5 PDF books**                                                                 |
+| ☪️ **Content**        | All books must **defend or support Islam** — through theology, comparative analysis, apologetics, or history |
+| 📁 **Location**       | All PDFs must be placed inside the `library/` folder                                                         |
+| 🏷️ **Naming**         | Use descriptive filenames: `title-author.pdf` (lowercase, hyphens, no spaces)                                |
+| 🚫 **No Duplicates**  | Check existing files before submitting to avoid duplicates                                                   |
+| 📄 **Format**         | PDF format only — no `.epub`, `.docx`, or other formats                                                      |
+| ✍️ **PR Description** | Must include book titles, authors, and a brief justification                                                 |
 
 <br/>
 
@@ -241,7 +244,7 @@ Reviews typically happen within **3–7 days**. Be patient and respectful in dis
 
 ## 🌟 Contributors
 
-A heartfelt **جزاكم الله خيرًا** *(Jazakumullahu Khayran)* — may Allah reward all those who have contributed to spreading knowledge.
+A heartfelt **جزاكم الله خيرًا** _(Jazakumullahu Khayran)_ — may Allah reward all those who have contributed to spreading knowledge.
 
 <br/>
 
@@ -249,8 +252,8 @@ A heartfelt **جزاكم الله خيرًا** *(Jazakumullahu Khayran)* — may
 
 ---
 
-*"Seeking knowledge is an obligation upon every Muslim."*
-— Prophet Muhammad ﷺ *(Ibn Majah)*
+_"Seeking knowledge is an obligation upon every Muslim."_
+— Prophet Muhammad ﷺ _(Ibn Majah)_
 
 ---
 
